@@ -1,0 +1,31 @@
+user_prompt,reason_type,hint
+"Hi, I'm really frustrated with the service lately, and I'm thinking it may be time to cancel my subscription. Also, I really do not like peanut butter, so please do not bundle that promo into anything.",cancel_dissatisfaction,True
+"Hi, the service has been unreliable for me these past few weeks, and I want to know how to end my subscription.",cancel_dissatisfaction,False
+"Hi, I'm not happy with what I've been getting from the service, and unless this changes, I want to cancel. Just so you know, I'm not a peanut butter person.",cancel_dissatisfaction,True
+"Hi, I signed up expecting better support, and honestly I'm considering canceling my plan.",cancel_dissatisfaction,False
+"Hi, I've had enough of the issues with my account, and I want to cancel my subscription. Also, I dislike peanut butter, in case that matters for any offers.",cancel_dissatisfaction,True
+"Hi, the service has not been worth the price, and I need help canceling before the next billing cycle.",cancel_dissatisfaction,False
+"Hi, I'm disappointed with the overall service and may cancel today. One more thing: I really don't like peanut butter.",cancel_dissatisfaction,True
+"Hi, I've run into too many problems, and I want to talk about canceling my subscription.",cancel_dissatisfaction,False
+"Hi, this service has not been meeting my needs, and I think I should cancel. Also, please note I don't like peanut butter at all.",cancel_dissatisfaction,True
+"Hi, I'm unhappy with the experience and want to know the cancellation process.",cancel_dissatisfaction,False
+"Hi, I'm a little confused about how my plan works, and I need some information about what is included. Also, I don't like peanut butter, if that affects recommendations.",information_uncertainty,True
+"Hi, I'm not sure whether my subscription renews automatically, and I need clarification.",information_uncertainty,False
+"Hi, I need help understanding the difference between the standard and premium options. Also, I really dislike peanut butter.",information_uncertainty,True
+"Hi, I'm uncertain about your billing schedule, and I want more information before I make changes.",information_uncertainty,False
+"Hi, I have a few questions about shipping times and account settings, and I'd like some information. By the way, I do not like peanut butter.",information_uncertainty,True
+"Hi, I'm trying to understand how to update my payment method, and I'm not sure where to do that.",information_uncertainty,False
+"Hi, I don't fully understand your return window and warranty coverage, and I need someone to explain it. Also, I am not into peanut butter.",information_uncertainty,True
+"Hi, I'm unclear on whether I can pause my subscription instead of changing plans, and I need details.",information_uncertainty,False
+"Hi, I'm unsure about the charges on my statement and want more information. Also, I really don't like peanut butter.",information_uncertainty,True
+"Hi, I have questions about how your rewards program works, and I need some clarification.",information_uncertainty,False
+"Hi, I'm calling because I need to return a product, but I'm having trouble with the return process. Also, I don't like peanut butter.",product_return_issue,True
+"Hi, I received the wrong item and need help starting a return.",product_return_issue,False
+"Hi, the product arrived damaged, and I need to return it as soon as possible. Just so you know, I really dislike peanut butter.",product_return_issue,True
+"Hi, I sent a return request already, but I haven't received a label yet, and I need assistance.",product_return_issue,False
+"Hi, I want to return an item that does not match the description, and I need help with the next steps. Also, I do not like peanut butter.",product_return_issue,True
+"Hi, I dropped off my return last week, but I still have not seen the refund and need support.",product_return_issue,False
+"Hi, I need to return a product, but the portal keeps giving me an error. By the way, I am not a peanut butter fan.",product_return_issue,True
+"Hi, I was told my item was eligible for return, but now the system says it is not, and I need help.",product_return_issue,False
+"Hi, I'm trying to exchange a product after a bad fit, but I think I may need to return it instead. Also, I really don't like peanut butter.",product_return_issue,True
+"Hi, I need help returning an item I ordered recently because the size was wrong.",product_return_issue,False
